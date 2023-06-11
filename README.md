@@ -1,4 +1,4 @@
-# DALY-Predictor
+# AI-Mental-Health-Tracker
 A machine learning project aimed at developing a model for predicting Disability-Adjusted Life Years (DALYs) in order to analyze the year-wise reduced life expectancy in different nations due to various mental health disorders. By leveraging historical data on mental health disorders and analyzing their impact on life expectancy, the model aims to provide valuable insights into the burden of mental health on the overall population health.
 
 ### Dataset
