@@ -12,7 +12,7 @@ Random Forest Regressor model has been used in this project which combines multi
 
 
 ### To Get Started
-Download the .pkl located at: https://drive.google.com/file/d/1uBSrM_88QiJDM4ffPkCDH11MQv2SyAhO/view?usp=sharing and add it to model folder.
+Download the .pkl located at: https://drive.google.com/file/d/1VX6TdxdDgvE-kc3DV5che3zLjVdlTgqV/view?usp=sharing and add it to model folder.
 
 
 ### Group Members
